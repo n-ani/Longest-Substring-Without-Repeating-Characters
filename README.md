@@ -1,4 +1,6 @@
-Output
+##Language Used : Python Programming Language.
+
+#Output
 
     Enter your string value: abccda
 
